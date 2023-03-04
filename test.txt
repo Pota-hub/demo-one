@@ -1,2 +1,2 @@
-sample file
+Demo of remote repo
 
